@@ -1,4 +1,4 @@
-module github.com/hashicorp/go-immutable-radix
+module github.com/titus12/go-immutable-radix
 
 require (
 	github.com/hashicorp/go-uuid v1.0.0
